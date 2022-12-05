@@ -31,3 +31,5 @@ describe("first time user navigating to the home page", () => {
         });
     });
 });
+
+export {}
