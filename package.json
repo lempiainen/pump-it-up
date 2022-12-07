@@ -27,6 +27,7 @@
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
+    "daisyui": "^2.42.1",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.4",
     "next": "13.0.4",
@@ -35,6 +36,7 @@
     "typescript": "4.9.3"
   },
   "devDependencies": {
+    "@next/font": "^13.0.6",
     "@testing-library/react": "^13.4.0",
     "autoprefixer": "^10.4.13",
     "cypress": "^11.1.0",
