@@ -1,4 +1,5 @@
 import Link from "next/link";
+
 export default function Home() {
   return (
     <div className="flex flex-col justify-around h-full text-center box-border px-16">
